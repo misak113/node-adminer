@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "bin": {
+    "adminer": "./bin/adminer"
+  },
   "dependencies": {
     "php-server": "^0.2.1"
   },
