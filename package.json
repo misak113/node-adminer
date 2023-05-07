@@ -7,7 +7,7 @@
     "adminer": "./bin/adminer"
   },
   "dependencies": {
-    "php-server": "^0.2.1"
+    "php-server": "^1.0.0"
   },
   "devDependencies": {},
   "engines": {
